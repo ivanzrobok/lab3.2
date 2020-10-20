@@ -1,0 +1,4 @@
+﻿  project_lab_3.2.cpp
+C:\Users\LapStore\source\repos\project_lab_3.2\project_lab_3.2\project_lab_3.2.cpp(9,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\LapStore\source\repos\project_lab_3.2\project_lab_3.2\project_lab_3.2.cpp(10,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  project_lab_3.2.vcxproj -> C:\Users\LapStore\source\repos\project_lab_3.2\Debug\project_lab_3.2.exe
